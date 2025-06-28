@@ -1,1 +1,2 @@
-# DocSpot_Seamless_Appointment_Booking_for_Health
+# Seamless-Appointment-Booking-for-Health
+DocSpot: Seamless Appointment Booking for Health
